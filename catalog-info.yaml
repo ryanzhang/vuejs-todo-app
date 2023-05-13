@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vuejs-todo-app
+  annotations:
+    github.com/project-slug: ryanzhang/vuejs-todo-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: openshift-janus
